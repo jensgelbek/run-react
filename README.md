@@ -1,5 +1,4 @@
-[![Build Status](ct.svg?branch=main)](https://travis-ci.com/Peter-Rambeck/CA3BackEnd)
-
+[![Build Status](https://travis-ci.com/jensgelbek/run-react.svg?branch=main)](https://travis-ci.com/jensgelbek/run-react)
 # InSession startcode
 
 ## Team
